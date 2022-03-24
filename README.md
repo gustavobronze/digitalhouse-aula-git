@@ -13,6 +13,7 @@
 ### 2.2 git commit -m "comentário"
 ### 2.3 git push
 
-## 3ª - Criar uma nova ramificação (branch) : 
+## 3ª - Criar uma nova ramificação (branch) : git branch <nome_da branch> ou git checkout -b <nome_da_branch>
+
 ### 3.1 - Criar um novo arquivo e alterar ele : 
 ### 3.2 - Subir as alterações da branch para o repositório na mesma branch (remote) : 
